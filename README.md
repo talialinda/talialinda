@@ -7,6 +7,6 @@ Meu nome é talia
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvido
 
 
-![descrição do GIF](link GIF do Tenor)
+
 
 ![](https://media1.tenor.com/m/Ez5abQcBMJIAAAAC/loveyou-kiss.gif)
